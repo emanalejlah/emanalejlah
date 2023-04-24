@@ -6,6 +6,7 @@
 - 💬 Ask me about **iOS , swiftui**
 
 - 📫 How to reach me **emanalejilah@gmail.com**
+- 📫 linkedin eman Al-ejilah
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
