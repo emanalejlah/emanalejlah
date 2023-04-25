@@ -3,10 +3,9 @@
 
 - 👨‍💻 My GitHub Portfolio [https://github.com/emanalejlah/ios-Developer-Portfolio.git](https://github.com/emanalejlah/ios-Developer-Portfolio.git)
 
-- 💬 Ask me about **iOS , swiftui**
+- 💬 Ask me about *iOS , swiftui*
 
-- 📫 How to reach me **emanalejilah@gmail.com**
-- 📫 linkedin eman Al-ejilah
+- 📫 How to reach me *emanalejilah@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,5 +13,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a 
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
